@@ -15,7 +15,7 @@ A newborn baby that is asleep have the most beautiful faces in the world, they a
 So that's where (App_name) comes in. Well, it can not help you put your baby sleep quickly or ensure his/her sleep until next morning. No, no one can do that actually. What (App_name) can do is to record your baby's sleep length and quality in the long run, and based on that it will give you suggestions for your rest schedule and facilitate your preparations.
 
 (App_name) also comes with the following features:
-*Contains information about the baby's sleep in various ways. e.g., the total hours and the average hours per sleep cycle or the time that the baby goes to sleep every day;
+* Contains information about the baby's sleep in various ways. e.g., the total hours and the average hours per sleep cycle or the time that the baby goes to sleep every day;
 * Supports multiple time formats, e.g., Value / Day, Value / Month;
 * Predicts the range of time when the baby wakes up. (Not 100% guaranteed! But more data will make it more precise).
 
