@@ -10,14 +10,14 @@
 ---
 
 ### Summary
-Sleeping babies have the most beautiful faces in the world, they are the Angel. However, such peaceful little things can turn to be monstrous dragon when they are woken up by hunger, noise, bad dream or whatever pissed them off. If you have colleagues or friends with young babies, it's not uncommon to find them with tired faces at the other day, complaining the struglling to deal with a waken baby last night.
+A newborn baby that is asleep have the most beautiful faces in the world, they are the Angel. However, such peaceful little things can turn to be monstrous dragon when they are woken up by hunger, noise, bad dream or whatever that pisses them off. If you have colleagues or friends with a newborn baby, it's not uncommon to find them sleep deprived and complain about the struggles they had to deal with when their newborn baby wakes up in the middle of the night.
 
-So it comes the (App_name). Well, it can not help you put your baby sleep quickly or ensure his/her sleep until next morning. No, no one can do that actually. What (App_name) can do is to record your baby's sleep length and quality in a long run, and based on which to give you the suggestion for your rest schedule and preparation.
+So that's where (App_name) comes in. Well, it can not help you put your baby sleep quickly or ensure his/her sleep until next morning. No, no one can do that actually. What (App_name) can do is to record your baby's sleep length and quality in the long run, and based on that it will give you suggestions for your rest schedule and facilitate your preparations.
 
-There're more features in (App_name). It can:
-* have the information about the baby's sleep in various ways. e.g., the total hours, the average hours per sleep or sleep times every day;
-* support multiple time formats, e.g., Value / Day, Value / Month;
-* predict the most likely baby's wake time in a range (Not 100% guaranteed! But more data will make it more precise).
+(App_name) also comes with the following features:
+*Contains information about the baby's sleep in various ways. e.g., the total hours and the average hours per sleep cycle or the time that the baby goes to sleep every day;
+* Supports multiple time formats, e.g., Value / Day, Value / Month;
+* Predicts the range of time when the baby wakes up. (Not 100% guaranteed! But more data will make it more precise).
 
 ----
 
